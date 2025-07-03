@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+
+img {
+	height: 100px;
+	width: 100px;
+	margin-bottom: 20px;
+}
